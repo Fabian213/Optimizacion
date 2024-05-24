@@ -30,7 +30,7 @@ Se desarrolló una heurística de búsqueda local para abordar el VRPTW, optimiz
 El algoritmo desarrollado genera rutas optimizadas que se visualizan mediante gráficos, mostrando las rutas de los vehículos y los tiempos de entrega para cada cliente.
 
 C101
-![c101](https://github.com/Fabian213/Optimizacion/assets/143827414/cfbff8c3-8570-4eec-b91b-65d7151f6446)
+![c101](https://github.com/Fabian213/Optimizacion/assets/143827414/d6f9ab51-9510-41c2-bda7-c6e959baeff5)
 
 
 ## Archivos
