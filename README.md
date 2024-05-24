@@ -35,32 +35,9 @@ El algoritmo desarrollado genera rutas optimizadas que se visualizan mediante gr
 - `c101.sol`: Archivo de solución que muestra las rutas optimizadas.
 - `c101.png`: Grafico de la solucion.
 
-## Ejecución del Proyecto
-
-1. Clona este repositorio: 
-    ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd tu_repositorio
-    ```
-3. Ejecuta el script principal:
-    ```bash
-    python main.py
-    ```
-
 ## Conclusión
 
 El proyecto demuestra cómo la heurística de búsqueda local puede ser una herramienta eficaz para abordar problemas complejos de optimización combinatoria como el VRPTW. A través del análisis, desarrollo e implementación del algoritmo, se logró mejorar la eficiencia y reducir los costos operativos en la planificación de rutas de vehículos.
-
-## Contacto
-
-Para más información, puedes contactarme en [tu_email@dominio.com].
-
----
-
-Este README proporciona una visión general clara y concisa de tu proyecto, sus objetivos, la metodología utilizada y cómo ejecutar el código, facilitando a otros usuarios entender y replicar tu trabajo.
 
 Referencias
 https://github.com/donfaq/VRPTW/blob/master/draw_solution.ipynb
