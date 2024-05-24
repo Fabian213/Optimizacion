@@ -1,0 +1,34 @@
+Ruta 1:Camino: 0 → 43 → 16 → 24 → 25 → 82 → 93 → 97 → 100 → 99 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 16.552 → 123.552 → 215.552 → 369 → 490.622 → 585.622 → 680.622 → 775.622 → 899.164
+Distancia total: 899.16
+Ruta 2:Camino: 0 → 90 → 87 → 86 → 83 → 11 → 9 → 6 → 4 → 2 → 1 → 75 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 20.616 → 115.616 → 206.616 → 302.616 → 448 → 541.162 → 633.398 → 727 → 825 → 917 → 1010 → 1115.811
+Distancia total: 1115.81
+Ruta 3:Camino: 0 → 65 → 63 → 62 → 74 → 72 → 61 → 59 → 68 → 66 → 69 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 76 → 171 → 266 → 359 → 454 → 547 → 656.209 → 762.762 → 858.147 → 950.147 → 1055.959
+Distancia total: 1055.96
+Ruta 4:Camino: 0 → 67 → 42 → 27 → 29 → 30 → 28 → 26 → 23 → 22 → 21 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 12.207 → 118.331 → 261 → 358 → 453 → 546 → 638 → 732 → 825 → 917 → 1017.198
+Distancia total: 1017.20
+Ruta 5:Camino: 0 → 98 → 41 → 40 → 44 → 46 → 45 → 48 → 51 → 50 → 52 → 49 → 47 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 30.806 → 169.571 → 264 → 359 → 451.828 → 543.828 → 635.828 → 728.828 → 821.064 → 914.227 
+→ 1007.227 → 1099.227 → 1207.255
+Distancia total: 1207.25
+Ruta 6: Camino: 0 → 57 → 55 → 54 → 53 → 56 → 58 → 60 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 35 → 127 → 222 → 317.385 → 411.385 → 503.385 → 596.385 → 731.662
+Distancia total: 731.66
+Ruta 7: Camino: 0 → 13 → 17 → 18 → 19 → 15 → 16 → 14 → 12 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 30.806 → 124.806 → 217.806 → 312.806 → 407.806 → 502.806 → 594.806 → 687.806 → 815.885
+Distancia total: 815.88
+Ruta 8: Camino: 0 → 32 → 33 → 31 → 35 → 37 → 38 → 39 → 36 → 34 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 31.623 → 123.623 → 219.008 → 314.008 → 409.839 → 501.839 → 596.839 → 691.839 → 784.839 → 907.227
+Distancia total: 907.23
+Ruta 9: Camino: 0 → 81 → 78 → 76 → 71 → 70 → 73 → 77 → 79 → 80 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 47.434 → 140.434 → 232.434 → 327.434 → 422.434 → 515.434 → 609.434 → 700.434 → 795.819 → 937.297
+Distancia total: 937.30
+Ruta 10: Camino: 0 → 5 → 3 → 7 → 8 → 10 → 84 → 64 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 15.133 → 106.133 → 198.133 → 290.961 → 384.567 → 510.469 → 636.078 → 747.619
+Distancia total: 747.62
+Ruta 11: Camino: 0 → 20 → 96 → 95 → 94 → 92 → 85 → 88 → 89 → 91 → 0
+Tiempo de inicio en cada cliente y tiempo acumulado: 0.0 → 10 → 142.426 → 234.426 → 328.032 → 421.638 → 555 → 648 → 740.828 → 836 → 948.361
+Distancia total: 948.36
